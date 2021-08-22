@@ -1,8 +1,7 @@
 # exercicios-js
-lista de exercícios resolvidos em javascript pra faculdade
-LISTA DE EXERCÍCIOS I
-Lógica de Programação
-Escreva um programa utilizando a Javascript ES6 (arrow functions, classes, importação de funções, etc) para cada um dos problemas
+Lista de exercícios resolvidos em javascript pra faculdade  </br>
+
+Lógica de Programação: Escreva um programa utilizando a Javascript ES6 (arrow functions, classes, importação de funções, etc) para cada um dos problemas
 
 
 ## Como executar 
